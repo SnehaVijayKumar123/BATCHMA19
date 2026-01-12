@@ -1,0 +1,13 @@
+package Practice;
+
+import org.testng.annotations.Test;
+
+public class Demo1Test {
+
+@Test(groups="smoke")
+public void HPTest()
+{
+	System.out.println("Harry");
+	System.out.println("Ron");
+}
+}
