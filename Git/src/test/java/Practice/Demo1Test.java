@@ -8,5 +8,7 @@ public class Demo1Test {
 public void HPTest()
 {
 	System.out.println("Harry");
+	System.out.println("ron");
+	
 }
 }
